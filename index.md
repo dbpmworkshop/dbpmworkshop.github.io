@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: index
 ---
 
-# Databases x Process Management Workshop @ SIGMOD 2025
+<center><h1>Databases x Process Management 
+<div style="font-size: 16pt">Workshop @ SIGMOD 2025</div></h1></center>
 
 
 <!--
@@ -16,7 +17,13 @@ Additionally, the workshop will tackle critical challenges in integrating AI int
 -->
 
 
-# Topics of intersection
+
+## Call for Papers
+
+tba
+
+
+### Topics of interest
 
 * **Core Process Mining**
     * Application of Deep Learning for Process Mining
@@ -65,11 +72,8 @@ Additionally, the workshop will tackle critical challenges in integrating AI int
     * Security vulnerabilities introduced by AI-powered database systems.
 
 
-# Call for Papers
 
-tba
-
-# Organizers
+## Organizers
 
 
 * Faiza Allah Bukhsh (University of Twente) - f.a.bukhsh@utwente.nl
@@ -80,6 +84,6 @@ tba
 * Cong Yu (Celonis) - cong.yu@celonis.com
 
 
-# Sponsors
+## Sponsors
 
-Celonis
+* <img src="files/images/partner-celonis.svg" alt="Celonis" style="height: 50px; margin-right: 10px;">
