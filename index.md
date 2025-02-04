@@ -2,7 +2,8 @@
 layout: index
 ---
 
-<center><h1>Databases x Process Management 
+<center><h1>LLM-DPM: Workshop on Large Language Models for Data
+Process Management
 <div style="font-size: 16pt">Workshop @ SIGMOD 2025</div></h1></center>
 
 
