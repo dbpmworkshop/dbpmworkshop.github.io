@@ -2,8 +2,7 @@
 layout: index
 ---
 
-<center><h1>LLM-DPM: Workshop on Large Language Models for Data
-Process Management
+<center><h1>Next Gen Data and Process Management: Large Language Models and Beyond 
 <div style="font-size: 16pt">Workshop @ SIGMOD 2025</div></h1></center>
 
 
