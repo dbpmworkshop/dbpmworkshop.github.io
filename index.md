@@ -3,7 +3,7 @@ layout: index
 ---
 
 <center><h1>Next Gen Data and Process Management: Large Language Models and Beyond 
-<div style="font-size: 16pt">Workshop @ SIGMOD 2025</div></h1></center>
+<div style="font-size: 16pt">Friday, June 27, 2025. Workshop @ SIGMOD 2025</div></h1></center>
 
 
 <!--
