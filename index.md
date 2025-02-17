@@ -6,24 +6,23 @@ layout: index
 <div style="font-size: 16pt">Friday, June 27, 2025. Workshop @ SIGMOD 2025</div></h1></center>
 
 
-<!--
-The Workshop on Databases and Process Management (DBPM), held in conjunction with the 2025 ACM SIGMOD Conference in Berlin, Germany, will explore the transformative role of Explainable AI (XAI), Trustworthy AI, and Large Language Models (LLMs) in revolutionizing Data and Process Management systems. Organizations across industries rely on complex processes to deliver products, services, and outcomes. Understanding these processes is critical for uncovering inefficiencies, addressing bottlenecks, ensuring compliance, and driving operational excellence.  
+
+The Workshop of Next Gen Data and Process Management: Large Language Models and Beyond (LLM-DPM), held in conjunction with the 2025 ACM SIGMOD Conference in Berlin, Germany, will explore the transformative role of Explainable AI (XAI), Trustworthy AI, and Large Language Models (LLMs) in revolutionizing Data and Process Management systems. Organizations across industries rely on complex processes to deliver products, services, and outcomes. Understanding these processes is critical for uncovering inefficiencies, addressing bottlenecks, ensuring compliance, and driving operational excellence.  
 
 Process mining, which leverages event logs from data systems, has emerged as a powerful approach for visualizing workflows, identifying anomalies, and optimizing processes. However, traditional methods such as surveys and interviews remain costly, error-prone, and disconnected from real operations. This workshop aims to bridge this gap by examining how cutting-edge AI techniques, particularly LLMs, can advance process mining and data management.  
 
 The workshop will focus on the emerging role of explainable AI and LLMs in addressing long-standing challenges such as query interpretation, data augmentation, user interaction, system optimization, future process prediction, and actionable insights for proactive decision-making. Particular attention will be paid to accountability and fairness to ensure these advancements lead to transparent, equitable, and resilient systems.  
 
 Additionally, the workshop will tackle critical challenges in integrating AI into process mining, including data quality, scalability of analysis techniques, and the complexity of large datasets. Discussions will fill gaps left by main track topics, delving into specific use cases, risks, and technical innovations in data-centric environments. By fostering dialogue between researchers and practitioners, the workshop will provide advancements at the intersection of AI, process mining, and database systems, driving both research and enterprise adoption.  
--->
 
 
 
 ## Call for Papers
 
-tba
 
+This workshop invites papers that present works that lay in the intersection between data management, AI, and process mining.   As such, we encourage both standard research papers, demonstrations, as well as work that is in-progress, reports on experiences, or proposes speculative new approaches. The event provides a suitable environment to discuss new approaches presented by researchers and practitioners.  The workshop will bring together leading researchers, engineers and scientists who are actively working on these topics.  
 
-### Topics of interest
+Topics of interest
 
 * **Core Process Mining**
     * Application of Deep Learning for Process Mining
@@ -71,6 +70,22 @@ tba
     * Ethical concerns in using LLMs in high-stakes environments.
     * Security vulnerabilities introduced by AI-powered database systems.
 
+
+### Submission Guidelines
+
+We invite submissions from 4 to 8 pages, not including references.  Papers may have at most 2 additional appendix pages.
+Authors are requested to prepare submissions following the [ACM proceedings format](https://www.acm.org/publications/proceedings-template) consistent with the SIGMOD submission guidelines. Please use the latest ACM paper format with the sigconf template, and [here is an overleaf for convenience](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). LLM-DPM is a single-anonymous workshop, authors must include their names and affiliations on the manuscript cover page.
+
+* Submission website: [TBA](#)
+* Inclusion and Diversity in Writing: http://2025.sigmod.org/calls_papers_inclusion_and_diversity.shtml
+
+### Important Dates
+
+* Submission deadline: April 1 2025, 5pm Pacific Time
+* Submission website: [TBA](#)
+* Notification of acceptance: April 25, 2025
+* Final papers due: May 16, 2025
+* Workshop: Friday, June 27, 2025
 
 
 ## Organizers
