@@ -15,6 +15,9 @@ The workshop will focus on the emerging role of explainable AI and LLMs in addre
 
 Additionally, the workshop will tackle critical challenges in integrating AI into process mining, including data quality, scalability of analysis techniques, and the complexity of large datasets. Discussions will fill gaps left by main track topics, delving into specific use cases, risks, and technical innovations in data-centric environments. By fostering dialogue between researchers and practitioners, the workshop will provide advancements at the intersection of AI, process mining, and database systems, driving both research and enterprise adoption.  
 
+## Schedule
+
+The program will consist of one keynote from [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (widely considered the godfather of Process Mining), panels, and contributed talks on accepted papers. 
 
 
 ## Call for Papers
