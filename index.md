@@ -6,7 +6,7 @@ layout: index
 <div style="font-size: 16pt">Friday, June 27, 2025. Workshop @ SIGMOD 2025</div></h1></center>
 
 
-
+<br/>
 The Workshop of Next Gen Data and Process Management: Large Language Models and Beyond (LLM-DPM), held in conjunction with the 2025 ACM SIGMOD Conference in Berlin, Germany, will explore the transformative role of Explainable AI (XAI), Trustworthy AI, and Large Language Models (LLMs) in revolutionizing Data and Process Management systems. Organizations across industries rely on complex processes to deliver products, services, and outcomes. Understanding these processes is critical for uncovering inefficiencies, addressing bottlenecks, ensuring compliance, and driving operational excellence.  
 
 Process mining, which leverages event logs from data systems, has emerged as a powerful approach for visualizing workflows, identifying anomalies, and optimizing processes. However, traditional methods such as surveys and interviews remain costly, error-prone, and disconnected from real operations. This workshop aims to bridge this gap by examining how cutting-edge AI techniques, particularly LLMs, can advance process mining and data management.  
@@ -77,7 +77,7 @@ We invite submissions from 4 to 8 pages, not including references.  Papers may h
 Authors are requested to prepare submissions following the [ACM proceedings format](https://www.acm.org/publications/proceedings-template) consistent with the SIGMOD submission guidelines. Please use the latest ACM paper format with the sigconf template, and [here is an overleaf for convenience](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). LLM-DPM is a single-anonymous workshop, authors must include their names and affiliations on the manuscript cover page.
 
 * Submission website: [TBA](#)
-* Inclusion and Diversity in Writing: http://2025.sigmod.org/calls_papers_inclusion_and_diversity.shtml
+* [SIGMOD Inclusion and Diversity in Writing](http://2025.sigmod.org/calls_papers_inclusion_and_diversity.shtml)
 
 ### Important Dates
 
