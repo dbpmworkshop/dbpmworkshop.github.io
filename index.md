@@ -22,7 +22,7 @@ Additionally, the workshop will tackle critical challenges in integrating AI int
 
 This workshop invites papers that present works that lay in the intersection between data management, AI, and process mining.   As such, we encourage both standard research papers, demonstrations, as well as work that is in-progress, reports on experiences, or proposes speculative new approaches. The event provides a suitable environment to discuss new approaches presented by researchers and practitioners.  The workshop will bring together leading researchers, engineers and scientists who are actively working on these topics.  
 
-Topics of interest
+### Topics of interest
 
 * **Core Process Mining**
     * Application of Deep Learning for Process Mining
