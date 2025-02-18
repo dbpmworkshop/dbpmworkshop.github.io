@@ -3,7 +3,7 @@ layout: index
 ---
 
 <center><h1>Next Gen Data and Process Management: Large Language Models and Beyond 
-<div style="font-size: 16pt">Friday, June 27, 2025. Workshop @ SIGMOD 2025</div></h1></center>
+<div style="font-size: 16pt">Sunday, June 22, 2025. Workshop @ SIGMOD 2025</div></h1></center>
 
 
 <br/>
@@ -88,7 +88,7 @@ Authors are requested to prepare submissions following the [ACM proceedings form
 * Submission website: [TBA](#)
 * Notification of acceptance: April 25, 2025
 * Final papers due: May 16, 2025
-* Workshop: Friday, June 27, 2025
+* Workshop: Sunday, June 22, 2025
 
 
 ## Organizers
