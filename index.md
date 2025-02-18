@@ -80,13 +80,13 @@ We invite submissions from 4 to 8 pages, not including references.
 <!--Papers may have at most 2 additional appendix pages.-->
 Authors are requested to prepare submissions following the [ACM proceedings format](https://www.acm.org/publications/proceedings-template) consistent with the SIGMOD submission guidelines. Please use the latest ACM paper format with the sigconf template, and [here is an overleaf for convenience](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). LLM-DPM is a single-anonymous workshop, authors must include their names and affiliations on the manuscript cover page.
 
-* Submission website: [TBA](#)
+* [Submission website](https://llm-dpm25.hotcrp.com/)
 * [SIGMOD Inclusion and Diversity in Writing](http://2025.sigmod.org/calls_papers_inclusion_and_diversity.shtml)
 
 ### Important Dates
 
 * Submission deadline: April 1 2025, 5pm Pacific Time
-* Submission website: [TBA](#)
+* Submission website: [https://llm-dpm25.hotcrp.com/](https://llm-dpm25.hotcrp.com/)
 * Notification of acceptance: April 25, 2025
 * Final papers due: May 16, 2025
 * Workshop: Sunday, June 22, 2025
