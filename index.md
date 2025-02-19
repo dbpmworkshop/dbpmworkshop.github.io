@@ -97,7 +97,7 @@ Authors are requested to prepare submissions following the [ACM proceedings form
 
 * Faiza Allah Bukhsh (University of Twente) - f.a.bukhsh@utwente.nl
 * Paolo Ceravolo (University of Milan) - paolo.ceravolo@unimi.it
-* Samira Maghoo (University of Milan) - samira.maghool@unimi.it
+* Samira Maghool (University of Milan) - samira.maghool@unimi.it
 * Xu Chu (Celonis) - x.chu@celonis.com
 * Eugene Wu (Columbia University) - ewu@cs.columbia.edu
 * Cong Yu (Celonis) - cong.yu@celonis.com
