@@ -87,7 +87,7 @@ Authors are requested to prepare submissions following the [ACM proceedings form
 
 * Submission deadline: April 1 2025, 5pm Pacific Time
 * Submission website: [https://llm-dpm25.hotcrp.com/](https://llm-dpm25.hotcrp.com/)
-* Notification of acceptance: April 25, 2025
+* Notification of acceptance: April 25, 2025 --- delayed to ---> May 2, 2025
 * Final papers due: May 16, 2025
 * Workshop: Sunday, June 22, 2025
 
