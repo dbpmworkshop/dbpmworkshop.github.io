@@ -17,8 +17,11 @@ Additionally, the workshop will tackle critical challenges in integrating AI int
 
 ## Schedule
 
-The program will consist of one keynote from [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (widely considered the godfather of Process Mining), panels, and contributed talks, including talks on accepted papers and other invited talks. 
+<!--The program will consist of one keynote from [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (widely considered the godfather of Process Mining), panels, and contributed talks, including talks on accepted papers and other invited talks. -->
 
+10:00 AM: **Keynote by Wil van der Aalst**:
+
+11:00 AM - 11:30AM: 
 
 ## Call for Papers
 
