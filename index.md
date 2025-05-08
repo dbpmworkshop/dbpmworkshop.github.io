@@ -19,9 +19,23 @@ Additionally, the workshop will tackle critical challenges in integrating AI int
 
 <!--The program will consist of one keynote from [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (widely considered the godfather of Process Mining), panels, and contributed talks, including talks on accepted papers and other invited talks. -->
 
-10:00 AM: **Keynote by Wil van der Aalst**:
+10:00 AM: **Keynote by Wil van der Aalst** 
 
-11:00 AM - 11:30AM: 
+11:00 AM - 11:30 AM: **Detection of Personal Data in Structured Datasets Using a Large Language Model** <br/>
+                  Albert Agisha Ntwali, Luca Rück, Martin Heckmann
+
+11:30 AM - 12:00 PM: **Text2Cypher: Data Pruning using Hard Example Selection**<br/>
+                     Makbule Gulcin Ozsoy
+
+12:00PM - 1:00 PM: **Lunch Break**
+
+1:00PM - 2:00PM: **Keynote by Prof. Ernesto Damiani** <br/>
+
+2:00PM - 2:30PM: **Disentangling Event Logs With Large Language Models** <br/>
+                  Gregory Benton, Cong Yu
+
+2:30PM - 3:00PM: **From Theory to Practice: Real-World Use Cases on Trustworthy LLM-Driven Process Modeling, Prediction and Automation**<br/>
+               Peter Pfeiffer, Alexander Rombach, Maxim Majlatow, Nijat Mehdiyev
 
 ## Call for Papers
 
