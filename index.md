@@ -23,7 +23,7 @@ Additionally, the workshop will tackle critical challenges in integrating AI int
 | Time      | Title |
 | ----------- | ----------- |
 | 10:00AM      | **Keynote** <br> Wil van der Aals |
-| 11:00AM - 11:30AM| **Detection of Personal Data in Structured Datasets Using a Large Language Model.** <br>  Albert Agisha Ntwali, Luca Rück, Martin Heckmann. |
+| 11:00AM - 11:30AM| [**Detection of Personal Data in Structured Datasets Using a Large Language Model.**](./files/personaldata.pdf) <br>  Albert Agisha Ntwali, Luca Rück, Martin Heckmann. |
 |11:30AM - 12:00PM|  [**Text2Cypher: Data Pruning using Hard Example Selection**](./files/text2cypher.pdf)<br/> Makbule Gulcin Ozsoy|
 |12:00PM - 1:00PM| **Lunch Break** |
 |1:00PM - 2:00PM| **Keynote by** <br/> Prof. Ernesto Damiani|
