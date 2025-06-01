@@ -132,3 +132,4 @@ Authors are requested to prepare submissions following the [ACM proceedings form
 ## Sponsors
 
 * <img src="files/images/partner-celonis.svg" alt="Celonis" style="height: 50px; margin-right: 10px;">
+* <img src="files/images/REPA_logo2.png" alt="REPA" style="height: 50px; margin-right: 10px;">
