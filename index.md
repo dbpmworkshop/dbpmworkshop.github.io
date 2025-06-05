@@ -26,10 +26,11 @@ Additionally, the workshop will tackle critical challenges in integrating AI int
 |10:30AM - 11:00AM      | Morning coffee break |
 | 11:00AM - 11:30AM| [**Detection of Personal Data in Structured Datasets Using a Large Language Model.**](./files/personaldata.pdf) <br>  Albert Agisha Ntwali, Luca Rück, Martin Heckmann. |
 |11:30AM - 12:00PM|  [**Text2Cypher: Data Pruning using Hard Example Selection**](./files/text2cypher.pdf)<br/> Makbule Gulcin Ozsoy|
+|12:00PM - 12:30PM| [**Disentangling Event Logs With Large Language Models**](./files/eventlog-llm.pdf) <br/> Gregory Benton, Lampros Flokas, Cong Yu|
 |12:30PM - 1:30PM| **Lunch Break** |
 |1:30PM - 2:30PM| **Keynote by** <br/> Prof. Ernesto Damiani|
-|2:30PM - 3:00PM| [**Disentangling Event Logs With Large Language Models**](./files/eventlog-llm.pdf) <br/> Gregory Benton, Lampros Flokas, Cong Yu|
-|3:00PM - 3:30PM| [**From Theory to Practice: Real-World Use Cases on Trustworthy LLM-Driven Process Modeling, Prediction and Automation**](./files/trustpm.pdf)<br/> Peter Pfeiffer, Alexander Rombach, Maxim Majlatow, Nijat Mehdiyev|
+|2:30PM - 3:00PM| [**From Theory to Practice: Real-World Use Cases on Trustworthy LLM-Driven Process Modeling, Prediction and Automation**](./files/trustpm.pdf)<br/> Peter Pfeiffer, Alexander Rombach, Maxim Majlatow, Nijat Mehdiyev|
+|3:00PM - 3:30PM      | Afternoon coffee break |
 
 ## Keynotes
 
